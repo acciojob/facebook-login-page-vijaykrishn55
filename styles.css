@@ -19,14 +19,14 @@ font-weight:700;
 	display:flex;
 	flex-direction:column;
 }
-.right form{
+.signup form{
 	display:flex;
 	flex-direction:column;
 }
-.right form, input, button, .forgot{
+.signup form, input, button, .forgot{
 	background-color:white;
 }
-.right{
+.signup{
 	
 }
 form{
